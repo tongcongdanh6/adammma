@@ -1,0 +1,113 @@
+/* This Cascading Style Sheets File was written by Tong Cong Danh (C) 2016 */
+
+/* ------------------- BEGINNING DEFINITION OF THE NEW FONTS ------------------------- */
+
+@font-face
+{
+	font-family: "myriad-bold";
+	src: url("Fonts/MYRIADPRO-BOLD.OTF") format("opentype");
+}
+@font-face
+{
+	font-family: "myriad-bold-cond";
+	src: url("Fonts/MYRIADPRO-BOLDCOND.OTF") format("opentype");
+}
+@font-face
+{
+	font-family: "myriad-bold-cond-italy";
+	src: url("Fonts/MYRIADPRO-BOLDCONDIT.OTF") format("opentype");
+}
+@font-face
+{
+	font-family: "myriad-bold-italy";
+	src: url("Fonts/MYRIADPRO-BOLDIT.OTF") format("opentype");
+}
+@font-face
+{
+	font-family: "myriad-cond";
+	src: url("Fonts/MYRIADPRO-COND.OTF") format("opentype");
+}
+@font-face
+{
+	font-family: "myriad-cond-italy";
+	src: url("Fonts/MYRIADPRO-CONDIT.OTF") format("opentype");
+}
+@font-face
+{
+	font-family: "myriad-regular";
+	src: url("Fonts/MYRIADPRO-REGULAR.OTF") format("opentype");
+}
+@font-face
+{
+	font-family: "myriad-semibold";
+	src: url("Fonts/MYRIADPRO-SEMIBOLD.OTF") format("opentype");
+}
+@font-face
+{
+	font-family: "myriad-semibold-italy";
+	src: url("Fonts/MYRIADPRO-SEMIBOLDIT.OTF") format("opentype");
+}
+/* ----------------------------------- ENDING OF DEFINITION THE NEW FONTS ------------------------*/
+/* ---------------------------------------------------------------------------------------------------------------*/
+
+/* ----------------------------------- BEGINNING THE STYLE OF FONT WHICH WILL BE DISPLAYED IN WEB-BROWSER ----------*/
+.myriad-bold
+{
+	font-family: "myriad-bold";
+	font-size: 14px;
+}
+.myriad-bold-cond
+{
+	font-family: "myriad-bold-cond";
+	font-size: 20px;
+}
+.header_opt_1
+{
+	font-family: "myriad-regular";
+	font-size:15px;
+}
+div.label_of_app
+{
+	position: absolute;
+	font-family: "myriad-bold-cond";
+	color:red;
+	display: inline;
+	font-size: 75px;
+	letter-spacing: 3px;
+	z-index:15;
+	width: 1200px;
+	height: 100px;
+	top: 5%;
+	left: 25%;
+	margin: 100px 0 0 -150px;
+	background: #FFFFFF;
+	border-style: groove solid dashed double;
+	border-left-width: 5px;
+	border-right-width: 5px;
+	border-top-width: 2px;
+	border-top-color: black;
+	border-bottom-color: black;
+	border-radius: 12px;
+	box-shadow: -10px -10px 8px #888888;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom: 10px;
+	
+}
+div.label_of_app > div.login_form
+{
+	position: relative;
+	font-family: "myriad-cond";
+	font-size:50px;
+	color: black;
+	letter-spacing: 3px;
+	margin: 30px auto;
+	padding-bottom: 5px;
+	border-bottom-style: groove;
+	width:50%;
+}
+#usr 
+{
+font-size:20px;
+}
+/* ----------------------------------- ENDING THE STYLE OF FONT WHICH WILL BE DISPLAYED IN WEB-BROWSER ----------*/
