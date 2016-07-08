@@ -5,47 +5,47 @@
 @font-face
 {
 	font-family: "myriad-bold";
-	src: url("Fonts/MYRIADPRO-BOLD.OTF") format("opentype");
+	src: url("/Fonts/MYRIADPRO-BOLD.OTF") format("opentype");
 }
 @font-face
 {
 	font-family: "myriad-bold-cond";
-	src: url("Fonts/MYRIADPRO-BOLDCOND.OTF") format("opentype");
+	src: url("/Fonts/MYRIADPRO-BOLDCOND.OTF") format("opentype");
 }
 @font-face
 {
 	font-family: "myriad-bold-cond-italy";
-	src: url("Fonts/MYRIADPRO-BOLDCONDIT.OTF") format("opentype");
+	src: url("/Fonts/MYRIADPRO-BOLDCONDIT.OTF") format("opentype");
 }
 @font-face
 {
 	font-family: "myriad-bold-italy";
-	src: url("Fonts/MYRIADPRO-BOLDIT.OTF") format("opentype");
+	src: url("/Fonts/MYRIADPRO-BOLDIT.OTF") format("opentype");
 }
 @font-face
 {
 	font-family: "myriad-cond";
-	src: url("Fonts/MYRIADPRO-COND.OTF") format("opentype");
+	src: url("/Fonts/MYRIADPRO-COND.OTF") format("opentype");
 }
 @font-face
 {
 	font-family: "myriad-cond-italy";
-	src: url("Fonts/MYRIADPRO-CONDIT.OTF") format("opentype");
+	src: url("/Fonts/MYRIADPRO-CONDIT.OTF") format("opentype");
 }
 @font-face
 {
 	font-family: "myriad-regular";
-	src: url("Fonts/MYRIADPRO-REGULAR.OTF") format("opentype");
+	src: url("/Fonts/MYRIADPRO-REGULAR.OTF") format("opentype");
 }
 @font-face
 {
 	font-family: "myriad-semibold";
-	src: url("Fonts/MYRIADPRO-SEMIBOLD.OTF") format("opentype");
+	src: url("/Fonts/MYRIADPRO-SEMIBOLD.OTF") format("opentype");
 }
 @font-face
 {
 	font-family: "myriad-semibold-italy";
-	src: url("Fonts/MYRIADPRO-SEMIBOLDIT.OTF") format("opentype");
+	src: url("/Fonts/MYRIADPRO-SEMIBOLDIT.OTF") format("opentype");
 }
 /* ----------------------------------- ENDING OF DEFINITION THE NEW FONTS ------------------------*/
 /* ---------------------------------------------------------------------------------------------------------------*/
